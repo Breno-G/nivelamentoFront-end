@@ -1,0 +1,69 @@
+body {
+    background-color: #51C155;
+}
+
+section{
+    width: 100%;
+    height: 100vh;
+}
+
+.section-atendimento{
+    background-color: rgb(67, 67, 67);
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.section-quemSou{
+    background-color: white;
+}
+
+.section-frase{
+    background-color: #51C155;
+}
+
+.section-contato{
+    background-color: rgb(28, 28, 28);  
+}
+.row{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+
+}
+.section-home{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+
+#section-home-text{
+    font-family: Nunito;      
+}
+
+#section-home-text-title{
+    font-size: 2em;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+hr{
+    margin-right: 20em;
+    border: 2px solid black
+}
+
+.atendimento-text{
+    color: aliceblue;
+}
+
+.atendimento-title{
+    color: #51C155;
+    text-transform: uppercase;
+}
+
+.section-quemSou{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
